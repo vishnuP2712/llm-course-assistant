@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+openai
+faiss-cpu
+tiktoken
+pypdf
+python-pptx
+numpy
+pandas
+python-dotenv
