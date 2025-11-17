@@ -1,6 +1,6 @@
 ﻿# 📘 llm-course-assistant
 
-smart Q&A system that allows users to "chat" with their PowerPoint lectures. Instead of manually searching through dozens of slides, you can now ask questions in natural language and get instant, accurate answers with source citations.
+A smart Q&A system that allows users to "chat" with their PowerPoint lectures. Instead of manually searching through dozens of slides, you can now ask questions in natural language and get instant, accurate answers with source citations.
 
 This project builds a complete Retrieval-Augmented Generation (RAG) pipeline from scratch using LangChain, ChromaDB, and Sentence Transformers.
 
@@ -58,3 +58,4 @@ Place your own .ppt or .pptx files into the ppt -files directory.
 ## **5.Run the Notebook**
 Open IR_project_LLM (3).ipynb in VS Code, Google Colab, or Jupyter.
 Run the cells in order from top to bottom.
+
